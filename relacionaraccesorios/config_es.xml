@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>relacionaraccesorios</name>
+	<displayName><![CDATA[Gestion de Relacion Accesorios]]></displayName>
+	<version><![CDATA[2.0]]></version>
+	<description><![CDATA[Este es un modulo para la gestion de accesorios y relacionarlos rapidamente con un excel.]]></description>
+	<author><![CDATA[Francisco Gonzalez]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
